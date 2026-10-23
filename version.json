@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/devmintstudio/myra-releases/releases/download/v1.3.1/Myra-Android-v1.3.1.apk",
-  "notes": "Kuch fixes aur behtariyan — update kar lein."
+  "versionCode": 9,
+  "versionName": "1.3.2",
+  "apkUrl": "https://github.com/devmintstudio/myra-releases/releases/download/v1.3.2/Myra-Android-v1.3.2.apk",
+  "notes": "Permissions ki asaan guide add — koi block nahi hoga."
 }
