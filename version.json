@@ -1,6 +1,1 @@
-{
-  "versionCode": 9,
-  "versionName": "1.3.2",
-  "apkUrl": "https://github.com/devmintstudio/myra-releases/releases/download/v1.3.2/Myra-Android-v1.3.2.apk",
-  "notes": "Permissions ki asaan guide add — koi block nahi hoga."
-}
+{"apkUrl":"https://github.com/devmintstudio/myra-releases/releases/download/v1.3.3/Myra-Android-v1.3.3.apk","notes":"Support number update + SAI install guide — OnePlus/OPPO par bhi koi block nahi.","versionCode":10,"versionName":"1.3.3"}
